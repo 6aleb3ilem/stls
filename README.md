@@ -27,14 +27,14 @@ Ce projet vise à traduire les gestes de la langue des signes américaine (ASL) 
 
          python main.py
 
-
+```
 ## Screenshots
 
 ![App Screenshot](https://github.com/6aleb3ilem/stls/assets/121716974/6dcf52fb-d014-4e6b-8a7b-61a01a38390c)
 
 ![runing with main2](https://github.com/6aleb3ilem/stls/assets/121716974/d564be85-285e-42e1-9bb7-d5eace3911c3)
 ![runing with main 3](https://github.com/6aleb3ilem/stls/assets/121716974/ae579a27-2ab5-4703-bd81-d4786bd569d3)
-
+``` bash 
         python main.py --help
 
 ```
@@ -58,10 +58,10 @@ Ce projet vise à traduire les gestes de la langue des signes américaine (ASL) 
 
     
     Vous pouvez également exécuter l'interface web en utilisant Streamlit :
-
+```bash
         streamlit run app.py
-        
-        ![running with streamlit 1](https://github.com/6aleb3ilem/stls/assets/121716974/692c9242-a11a-4282-bed2-ba6c2fd00a21)
-        ![running with streamlit 2](https://github.com/6aleb3ilem/stls/assets/121716974/590b5e5c-bb65-487d-ad03-725c59305014)
+```
+ ![running with streamlit 1](https://github.com/6aleb3ilem/stls/assets/121716974/692c9242-a11a-4282-bed2-ba6c2fd00a21)
+ ![running with streamlit 2](https://github.com/6aleb3ilem/stls/assets/121716974/590b5e5c-bb65-487d-ad03-725c59305014)
 
      
